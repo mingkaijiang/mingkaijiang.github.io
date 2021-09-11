@@ -5,50 +5,40 @@ cv_title: Mingkai Jiang
 cv_subtitle: Ecosystem ecologist
 location: Sydney, Australia
 phone: 
-contact_name: OleVik.net/Contact
-contact_link: http://olevik.net/contact
-linkedin_name: LinkedIn/OleHHVik
-linkedin_link: https://no.linkedin.com/in/olehhvik
+contact_name: 
+contact_link: 
+linkedin_name: 
+linkedin_link: 
 experience:
   - years: 2021-
     name: Lecturer
-    location: Western Sydney University
-    description: xxx
+    location: [Hakwesbury Institute for the Environment](https://www.westernsydney.edu.au/hie), [Western Sydney University](https://www.westernsydney.edu.au/)
+    description: 
   - years: 2016 - 2021
     name: Postdoctoral research fellow
-    location: Western Sydney University
-    description: xxx
+    location: [Hakwesbury Institute for the Environment](https://www.westernsydney.edu.au/hie), [Western Sydney University](https://www.westernsydney.edu.au/)
+    description: 
   - years: 2017
     name: Visiting fellow
     location: Max Planck Institute for Biogeochemistry, Jena, Germany
-    description: xxx
+    description: 
   
 education:
   - years: 2012 - 2016
     name: PhD in Earth and Environmental Sciences
-    location: Lehigh University (USA)
-    description: xxx
+    location: [Lehigh University (USA)](https://www1.lehigh.edu/home)
+    description: 
   - years: 2010 - 2011
     name: Master by Research in Ecology and Environmental Management
-    location: University of York (UK)
-    description: xxx
+    location: [University of York (UK)](https://www.york.ac.uk/)
+    description: 
   - years: 2006 - 2010
     name: BSc in Environmental Sciences
-    location: University of York (UK)
-    description: xxx
+    location: [University of York (UK)](https://www.york.ac.uk/)
+    description: 
   
-positions:
-  - years: 2013-2015
-    name: Student Council for Comparative Politics
-    location: Board Member
-    description: Former representative for Political Economy, more recently representative for the masters student to the Educational Committee and the Departmental Council at the Department for Comparative Politics.
-  - years: 2012-2013
-    name: Student Council for Political Economy
-    location: Board Member
-    description: Promoted the degree and the student’s interests to the Department of Comparative Politics and the Department of Economics, and also organized meetings and social events with the rest of the board.
-misc: Citizen of Norway, fluent in Norwegian and English speech, read and write both excellently.
-date: 2016-04-02
+date: 2021-09-11
 layout: cv
 ---
 
-> 2015 graduate with a Master’s Degree in Comparative Politics from the University of Bergen. Currently a Research Assistant at the Norwegian School of Economics and Substitute Teacher through PVS.
+> Research expertise in plant physiology, global change ecology and mathematical modelling.
