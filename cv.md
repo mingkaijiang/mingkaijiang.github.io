@@ -12,11 +12,11 @@ linkedin_link:
 experience:
   - years: 2021-
     name: Lecturer
-    location: [Hakwesbury Institute for the Environment](https://www.westernsydney.edu.au/hie), [Western Sydney University](https://www.westernsydney.edu.au/)
+    location: Hakwesbury Institute for the Environment, Western Sydney University
     description: 
   - years: 2016 - 2021
     name: Postdoctoral research fellow
-    location: [Hakwesbury Institute for the Environment](https://www.westernsydney.edu.au/hie), [Western Sydney University](https://www.westernsydney.edu.au/)
+    location: Hakwesbury Institute for the Environment, Western Sydney University
     description: 
   - years: 2017
     name: Visiting fellow
@@ -41,4 +41,4 @@ date: 2021-09-11
 layout: cv
 ---
 
-> Research expertise in plant physiology, global change ecology and mathematical modelling.
+> 2015 graduate with a Master’s Degree in Comparative Politics from the University of Bergen. Currently a Research Assistant at the Norwegian School of Economics and Substitute Teacher through PVS.
