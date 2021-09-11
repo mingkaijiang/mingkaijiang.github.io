@@ -26,18 +26,18 @@ experience:
 education:
   - years: 2012 - 2016
     name: PhD in Earth and Environmental Sciences
-    location: [Lehigh University (USA)](https://www1.lehigh.edu/home)
+    location: Lehigh University (USA)
     description: 
   - years: 2010 - 2011
     name: Master by Research in Ecology and Environmental Management
-    location: [University of York (UK)](https://www.york.ac.uk/)
+    location: University of York (UK)
     description: 
   - years: 2006 - 2010
     name: BSc in Environmental Sciences
-    location: [University of York (UK)](https://www.york.ac.uk/)
+    location: University of York (UK)
     description: 
   
-date: 2021-09-11
+date: 2016-04-02
 layout: cv
 ---
 
