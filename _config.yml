@@ -52,3 +52,5 @@ markdown: kramdown
 encoding: utf-8
 baseurl: mingkaijiang.github.io
 locale: en_GB
+
+theme: jekyll-theme-minimal
