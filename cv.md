@@ -12,30 +12,30 @@ linkedin_link: https://no.linkedin.com/in/olehhvik
 experience:
   - years: 2021-
     name: Lecturer
-    location: Hakwesbury Institute for the Environment, Western Sydney University
-    description: 
+    location: Western Sydney University
+    description: xxx
   - years: 2016 - 2021
     name: Postdoctoral research fellow
-    location: Hakwesbury Institute for the Environment, Western Sydney University
-    description: 
+    location: Western Sydney University
+    description: xxx
   - years: 2017
     name: Visiting fellow
     location: Max Planck Institute for Biogeochemistry, Jena, Germany
-    description: 
+    description: xxx
   
 education:
   - years: 2012 - 2016
     name: PhD in Earth and Environmental Sciences
     location: Lehigh University (USA)
-    description: 
+    description: xxx
   - years: 2010 - 2011
     name: Master by Research in Ecology and Environmental Management
     location: University of York (UK)
-    description: 
+    description: xxx
   - years: 2006 - 2010
     name: BSc in Environmental Sciences
     location: University of York (UK)
-    description: 
+    description: xxx
   
 date: 2016-04-02
 layout: cv
