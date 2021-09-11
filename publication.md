@@ -1,6 +1,6 @@
 ---
-title: "Papers"
-summary: "About this page."
+title: "Publication"
+summary: "A summary of publications"
 date: 2016-04-13
 layout: default
 ---
