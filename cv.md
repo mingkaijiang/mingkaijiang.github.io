@@ -5,10 +5,10 @@ cv_title: Mingkai Jiang
 cv_subtitle: Ecosystem ecologist
 location: Sydney, Australia
 phone: 
-contact_name: 
-contact_link: 
-linkedin_name: 
-linkedin_link: 
+contact_name: OleVik.net/Contact
+contact_link: http://olevik.net/contact
+linkedin_name: LinkedIn/OleHHVik
+linkedin_link: https://no.linkedin.com/in/olehhvik
 experience:
   - years: 2021-
     name: Lecturer
