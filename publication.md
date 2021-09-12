@@ -21,8 +21,8 @@ In chronological order. <span style="color:blue"> Paper in a nutshell </span>
 **M. Jiang**, J.W.G. Kelly, B.A. Atwell, D.T. Tissue, B.E. Medlyn. 2021. [Drought by CO2 interactions in trees: a test of the water savings mechanism](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.17233). *New Phytologist*, 230:1421-1434. 
 
 <span style="color:blue"> - Paper in a nutshell: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. </span>
-\
-\
+
+<br /> 
 
 
 
@@ -31,8 +31,8 @@ In chronological order. <span style="color:blue"> Paper in a nutshell </span>
 C.R. Ember, I. Skoggard, B.S. Felzer, E. Pitek, **M. Jiang**. 2021. [Climate variability, drought, and the belief that Gods are associated with weather in nonindustrial societies](https://journals.ametsoc.org/view/journals/wcas/13/2/WCAS-D-20-0080.1.xml). *Weather, Climate and Society*, 259-272. 
 
 - <span style="color:blue"> Paper in a nutshell: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. </span> 
-\
-\
+
+<br /> 
 
 
 
@@ -40,7 +40,7 @@ A.P. Walker, M.G. De Kauwe, A. Bastos, S. Belmecheri, K. Georgiou, R. Keeling, S
 
 <span style="color:blue"> - Paper in a nutshell: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. </span> 
 \
-\
+<br /> 
 
 
 
