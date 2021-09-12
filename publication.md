@@ -29,7 +29,37 @@ layout: default
 
 # 2019. 
 
-**M. Jiang**, S. Zaehle, M.G. De Kauwe, A.P. Walker, S. Caldararu, D.S. Ellsworth, and B.E. Medlyn, 2019. The quasi-equilibrium framework revisited: analyzing long-term CO2 enrichment responses in plant-soil models. Geoscientific Model Development, 12, 2069-2089.
+13. **M. Jiang**, S. Zaehle, M.G. De Kauwe, A.P. Walker, S. Caldararu, D.S. Ellsworth, and B.E. Medlyn, 2019. The quasi-equilibrium framework revisited: analyzing long-term CO2 enrichment responses in plant-soil models. Geoscientific Model Development, 12, 2069-2089.
+
+12. J. Yang, R.A. Duursma, M.G. De Kauwe, D. Kumarathunge, **M. Jiang**, K. Mahmud, T.E. Gimeno, K.Y. Crous, D.S. Ellsworth, J. Peters, B. Choat, D. Eamus, and B.E. Medlyn. 2019. Incorporating non-stomatal limitation improves the performance of leaf and canopy models at high vapour pressure deficit. Tree Physiology, 39, 1961-1974. 
+
+11. K.Y. Crous, A. Wujeska-Klause, **M. Jiang**, B.E. Medlyn, and D.S. Ellsworth. 2019. Nitrogen and phosphorus retranslocation of leaves and stemwood in a mature Eucalyptus forest exposed to 5 years of elevated CO2. Frontiers in Plant Science, 10. 664.
+
+10. **M. Jiang**, S. Caldararu, S. Zaehle, D.S. Ellsworth, and B.E. Medlyn. 2019. Towards a more physiological representation of vegetation phosphorus processes in land surface models. New Phytologist, 222, 1223-1229. 
+
+9. K. Fleischer, A. Rammig, M.G. De Kauwe, A.P. Walker, T. Domingues, L. Fuchslueger, S. Garcia, D. Goll, A. Grandis, **M. Jiang**, V. Haverd, F. Hofhansl, J. Holm, B. Kruijt, F. Leung, B.E. Medlyn, L. Mercado, R. Norby, B. Pak, Q.A. Quesada, C. von Randow, K. Schaap, O. Valverde, Y.-P. Wang, X. Yang, S. Zaehle, Q. Zhu, and D. M. Lapola. 2019. Amazon forest response to CO2 fertilization dependent on plant phosphorus acquisition. Nature Geosciences, 12, 736 – 741.
+
+8. E.L. Fry, J.R. De Long#, L.A. Garrido, N.A. Segura, Y. Carrillo, L.C. Gomez, M. Chomel, M. Dondini, J.E. Drake, S. Hasegawa, S.H. Botifoll, B.G. Jackson, **M. Jiang**, J.M. Lavallee, B.E. Medlyn, J. Rhymes, B.K. Singh, P. Smith, I. Anderson, R.D. Bardgett, E.M. Baggs and D. Johnson, 2019. Using plant, microbe and soil fauna traits to improve the predictive power of biogeochemical cycling models. Methods in Ecology and Evolution, 10:146-157.
+
+# 2016
+
+7. B.S. Felzer, and **M. Jiang**, 2018. Effect of land use and land cover change in context of growth enhancements in the U.S. since 1700: net source or sink? Journal of Geophysical Research: Biogeosciences, 123: 3439-3457
+
+6. J.E. Drake, M.G. Tjoelker, A. Varhammar, B.E. Medlyn, P.B. Reich, A. Leigh, S. Pfautsch, C.J. Blackman, R. Lopez, M.J. Aspinwall, K.Y. Crous, R.A. Duursma, D. Kumarathunge, M.G. De Kauwe, **M. Jiang**, A.B. Nicotra, D.T. Tissue, B. Choat, W.K. Atkin, and C.V.M. Barton, 2018. Trees tolerate an extreme heatwave through latent cooling and increased thermal tolerance. Global Change Biology, 24: 2390-2402.
+
+5. **M. Jiang**, B.S. Felzer, U. N. Nielsen and B.E. Medlyn, 2017. Biome-specific climatic spaces defined by temperature and precipitation predictability. Global Ecology and Biogeography, 26: 1270-1282.
+
+
+# 2016 and earlier:
+
+4. M. Jiang#, B.S. Felzer and D. Sahagian, 2016. Predictability of precipitation over the conterminous U.S. in the CMIP5 multi-model ensemble. Scientific Reports, 6, 29962. 
+
+3. **M. Jiang**, B.S. Felzer and D. Sahagian, 2016. Characterizing predictability of precipitation means and extremes over the conterminous U.S., 1949-2010. Journal of Climate, 29, 2621-2633.
+
+2. **M. Jiang**, B.S. Felzer, B. Hargreaves, and J. Zhang, 2015. Improved understanding of climate change impact to Pennsylvania dairy pasture. Crop Science, 55, 934-949. IF = 1.64. 
+
+1. **M. Jiang**, J.M. Bullock, and D.A.P. Hooftman, 2013. Mapping ecosystem service and biodiversity changes over 70 years in a rural English county. Journal of Applied Ecology, 50, 841-850.
+
 
 ## Working papers
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. Vivamus in ullamcorper ex, nec faucibus diam. Aenean eros purus, elementum sed nunc vitae, faucibus semper nibh. In ac nisl vitae massa scelerisque sagittis a elementum lectus.
