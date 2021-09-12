@@ -9,4 +9,4 @@ Dr. Jiang is a terrestrial ecosystem ecologist, with broad research interests in
 
 ![Researcher Portrait](assets/images/keyword_cloud.png "Mingkai Jiang")
 
-[//]:![Researcher Portrait](assets/images/MJ_resized.jpg "Mingkai Jiang")
+[comment]: <> ![Researcher Portrait](assets/images/MJ_resized.jpg "Mingkai Jiang")
