@@ -1,7 +1,7 @@
 ---
 title: "Publication"
 summary: "A summary of publications"
-date: 2016-04-13
+date: 2021-09-11
 layout: default
 ---
 
@@ -171,6 +171,6 @@ J.E. Drake, M.G. Tjoelker, A. Varhammar, B.E. Medlyn, P.B. Reich, A. Leigh, S. P
 
 
 
-Here is a paper, which you can find at [ResearchGate](http://dx.doi.org/10.13140/RG.2.1.1137.2247).
+Here is the full list, which you can find in [pdf]().
 
-<iframe style="margin: 10px 0 40px 0;" class="pdf-iframe" src="https://drive.google.com/file/d/0B-xXQEsWEjrUUmpBdkhIVS10YjA/preview" width="100%" height="768"></iframe>
+<!--<iframe style="margin: 10px 0 40px 0;" class="pdf-iframe" src="https://drive.google.com/file/d/0B-xXQEsWEjrUUmpBdkhIVS10YjA/preview" width="100%" height="768"></iframe>-->
