@@ -46,6 +46,8 @@ menu:
 menu_external:
  - title: Twitter
    url: "https://twitter.com/jiangmingkai"
+ - title: Google Scholar
+   url: "https://scholar.google.com/citations?user=wwUS-e8AAAAJ&hl=en"
 mathjax: false
 markdown: kramdown
 encoding: utf-8
