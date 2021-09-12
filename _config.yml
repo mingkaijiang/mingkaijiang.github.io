@@ -1,8 +1,8 @@
 name: Mingkai Jiang
 description: Academic website
 menu:
- - page: About
-   url: /about
+ - page: News
+   url: /news
  - page: Publication
    url: /publication
    links:
