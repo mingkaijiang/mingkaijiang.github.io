@@ -18,9 +18,9 @@ In chronological order. <span style="color:blue"> Paper in a nutshell </span>
 
 ### 2021
 
-- **M. Jiang**, J.W.G. Kelly, B.A. Atwell, D.T. Tissue, B.E. Medlyn. 2021. [Drought by CO2 interactions in trees: a test of the water savings mechanism](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.17233). *New Phytologist*, 230:1421-1434. 
+**M. Jiang**, J.W.G. Kelly, B.A. Atwell, D.T. Tissue, B.E. Medlyn. 2021. [Drought by CO2 interactions in trees: a test of the water savings mechanism](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.17233). *New Phytologist*, 230:1421-1434. 
 
-<span style="color:blue"> Paper in a nutshell </span>: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. 
+<span style="color:blue"> - Paper in a nutshell: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. </span>
 
 
 
