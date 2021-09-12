@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie
 
 ## Full publication
 
-In chronological order.
+In chronological order. <span style="color:blue"> Paper in a nutshell </span>
 
 ### 2021
 
@@ -60,7 +60,7 @@ In chronological order.
 
 ### 2017
 
-- **M. Jiang**, B.S. Felzer, U. N. Nielsen and B.E. Medlyn, 2017. [Biome-specific climatic spaces defined by temperature and precipitation predictability](). *Global Ecology and Biogeography*, 26: 1270-1282.
+- **M. Jiang**, B.S. Felzer, U. N. Nielsen and B.E. Medlyn, 2017. [Biome-specific climatic spaces defined by temperature and precipitation predictability](https://onlinelibrary.wiley.com/doi/10.1111/geb.12635). *Global Ecology and Biogeography*, 26: 1270-1282.
 
 
 ### 2016 and earlier:
