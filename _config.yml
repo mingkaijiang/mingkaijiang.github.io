@@ -36,8 +36,13 @@ menu:
    url: /teaching
  - page: Media
    url: /media
- - page: Accolades
-   url: /accolades
+ - page: Resources
+   url: /resources
+   links:
+    - title: Datasets
+      url: "#datasets"
+    - title: Useful links
+      url: "#links"
 menu_external:
  - title: Twitter
    url: "https://twitter.com/jiangmingkai"
