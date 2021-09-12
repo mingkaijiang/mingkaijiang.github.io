@@ -12,7 +12,7 @@ linkedin_link: https://no.linkedin.com/in/olehhvik
 experience:
   - years: 2021-
     name: Lecturer
-    location: Western Sydney University
+    location: [Hawkesbury Institute for the Environment](https://www.westernsydney.edu.au/hie), Western Sydney University
     description: xxx
   - years: 2016 - 2021
     name: Postdoctoral research fellow
@@ -41,4 +41,4 @@ date: 2016-04-02
 layout: cv
 ---
 
-> 2015 graduate with a Master’s Degree in Comparative Politics from the University of Bergen. Currently a Research Assistant at the Norwegian School of Economics and Substitute Teacher through PVS.
+> Research expertise in plant physiology, global change ecology and mathematical modelling.
