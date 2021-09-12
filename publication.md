@@ -55,23 +55,26 @@ In chronological order.
 
 7. B.S. Felzer, and **M. Jiang**, 2018. [Effect of land use and land cover change in context of growth enhancements in the U.S. since 1700: net source or sink?](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2017JG004378) *Journal of Geophysical Research: Biogeosciences*, 123: 3439-3457
 
-6. J.E. Drake, M.G. Tjoelker, A. Varhammar, B.E. Medlyn, P.B. Reich, A. Leigh, S. Pfautsch, C.J. Blackman, R. Lopez, M.J. Aspinwall, K.Y. Crous, R.A. Duursma, D. Kumarathunge, M.G. De Kauwe, **M. Jiang**, A.B. Nicotra, D.T. Tissue, B. Choat, W.K. Atkin, and C.V.M. Barton, 2018. [Trees tolerate an extreme heatwave through latent cooling and increased thermal tolerance](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14037). *Global Change Biology*, 24: 2390-2402.
+- J.E. Drake, M.G. Tjoelker, A. Varhammar, B.E. Medlyn, P.B. Reich, A. Leigh, S. Pfautsch, C.J. Blackman, R. Lopez, M.J. Aspinwall, K.Y. Crous, R.A. Duursma, D. Kumarathunge, M.G. De Kauwe, **M. Jiang**, A.B. Nicotra, D.T. Tissue, B. Choat, W.K. Atkin, and C.V.M. Barton, 2018. [Trees tolerate an extreme heatwave through latent cooling and increased thermal tolerance](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14037). *Global Change Biology*, 24: 2390-2402.
 
 
 ### 2017
 
-5. **M. Jiang**, B.S. Felzer, U. N. Nielsen and B.E. Medlyn, 2017. Biome-specific climatic spaces defined by temperature and precipitation predictability. *Global Ecology and Biogeography*, 26: 1270-1282.
+- **M. Jiang**, B.S. Felzer, U. N. Nielsen and B.E. Medlyn, 2017. [Biome-specific climatic spaces defined by temperature and precipitation predictability](). *Global Ecology and Biogeography*, 26: 1270-1282.
 
 
 ### 2016 and earlier:
 
-4. **M. Jiang**, B.S. Felzer and D. Sahagian, 2016. Predictability of precipitation over the conterminous U.S. in the CMIP5 multi-model ensemble. *Scientific Reports*, 6, 29962. 
+- **M. Jiang**, B.S. Felzer and D. Sahagian, 2016. [Predictability of precipitation over the conterminous U.S. in the CMIP5 multi-model ensemble](https://www.nature.com/articles/srep29962). *Scientific Reports*, 6, 29962. 
 
-3. **M. Jiang**, B.S. Felzer and D. Sahagian, 2016. Characterizing predictability of precipitation means and extremes over the conterminous U.S., 1949-2010. *Journal of Climate*, 29, 2621-2633.
+- **M. Jiang**, B.S. Felzer and D. Sahagian, 2016. [Characterizing predictability of precipitation means and extremes over the conterminous U.S., 1949-2010](https://journals.ametsoc.org/view/journals/clim/29/7/jcli-d-15-0560.1.xml). *Journal of Climate*, 29, 2621-2633.
 
-2. **M. Jiang**, B.S. Felzer, B. Hargreaves, and J. Zhang, 2015. Improved understanding of climate change impact to Pennsylvania dairy pasture. *Crop Science*, 55, 934-949. IF = 1.64. 
+- **M. Jiang**, B.S. Felzer, B. Hargreaves, and J. Zhang, 2015. [Improved understanding of climate change impact to Pennsylvania dairy pasture](https://acsess.onlinelibrary.wiley.com/doi/abs/10.2135/cropsci2014.05.0377). *Crop Science*, 55, 934-949. IF = 1.64. 
 
-1. **M. Jiang**, J.M. Bullock, and D.A.P. Hooftman, 2013. Mapping ecosystem service and biodiversity changes over 70 years in a rural English county. *Journal of Applied Ecology*, 50, 841-850.
+- **Pub**: **M. Jiang**, J.M. Bullock, and D.A.P. Hooftman, 2013. [Mapping ecosystem service and biodiversity changes over 70 years in a rural English county](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.12093). *Journal of Applied Ecology*, 50, 841-850.
+
+<span style="color:blue"> Paper in a nutshell </span>: test, test, test. 
+
 
 
 
