@@ -5,7 +5,7 @@ date: 2021-09-11
 layout: default
 ---
 
-<span style="color:blue"> Site is still under development. </span>
+<span style="color:red"> Site is still under development. </span>
 
 
 
