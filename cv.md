@@ -12,12 +12,12 @@ linkedin_link: https://no.linkedin.com/in/olehhvik
 experience:
   - years: 2021-
     name: Lecturer
-    location: [Hawkesbury Institute for the Environment](https://www.westernsydney.edu.au/hie), Western Sydney University
-    description: xxx
+    location: Hawkesbury Institute for the Environment, Western Sydney University
+    description: 
   - years: 2016 - 2021
     name: Postdoctoral research fellow
     location: Western Sydney University
-    description: xxx
+    description: 
   - years: 2017
     name: Visiting fellow
     location: Max Planck Institute for Biogeochemistry, Jena, Germany
