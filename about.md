@@ -1,12 +1,10 @@
 ---
 title: "About"
-summary: "About this page."
-date: 2016-04-13
+summary: "Landing page"
+date: 2021-09-11
 layout: default
 ---
 
-"About" introductory paragraph.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. Vivamus in ullamcorper ex, nec faucibus diam. Aenean eros purus, elementum sed nunc vitae, faucibus semper nibh. In ac nisl vitae massa scelerisque sagittis a elementum lectus.
+Dr. Jiang is a terrestrial ecosystem ecologist, with broad research interests in plant physiology, global change ecology and mathematical modelling. He has expertise in ecosystem budget accounting, data-model intercomparisons, and landscape-scale model simulations. In his research, Dr. Jiang uses ecological theory, process-based models and manipulative experiments to advance our knowledge of the impacts of global change on terrestrial ecosystems and the associated consequences for ecosystem services. Dr. Jiang is currently a university lecturer and a DECRA Fellow as awarded by the Australian Research Council (2021 – 2023). 
 
 ![Researcher Portrait](assets/images/MJ_resized.jpg "Mingkai Jiang")
