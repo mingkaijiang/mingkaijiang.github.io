@@ -6,10 +6,10 @@ menu:
  - page: Publication
    url: /publication
    links:
-    - title: Working papers
-      url: "#working-papers"
     - title: Published papers
       url: "#published-papers"
+    - title: Working papers
+      url: "#working-papers"
  - page: Research Projects
    url: /research
    links:
