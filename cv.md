@@ -5,10 +5,10 @@ cv_title: Mingkai Jiang
 cv_subtitle: Ecosystem ecologist
 location: Sydney, Australia
 phone: 
-contact_name: OleVik.net/Contact
-contact_link: http://olevik.net/contact
-linkedin_name: LinkedIn/OleHHVik
-linkedin_link: https://no.linkedin.com/in/olehhvik
+contact_name: 
+contact_link: 
+linkedin_name: 
+linkedin_link: 
 experience:
   - years: 2021-
     name: Lecturer
@@ -21,23 +21,23 @@ experience:
   - years: 2017
     name: Visiting fellow
     location: Max Planck Institute for Biogeochemistry, Jena, Germany
-    description: xxx
+    description: 
   
 education:
   - years: 2012 - 2016
     name: PhD in Earth and Environmental Sciences
     location: Lehigh University (USA)
-    description: xxx
+    description: 
   - years: 2010 - 2011
     name: Master by Research in Ecology and Environmental Management
     location: University of York (UK)
-    description: xxx
+    description: 
   - years: 2006 - 2010
     name: BSc in Environmental Sciences
     location: University of York (UK)
-    description: xxx
+    description: 
   
-date: 2016-04-02
+date: 2021-09-11
 layout: cv
 ---
 
