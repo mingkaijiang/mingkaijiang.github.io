@@ -1,8 +1,8 @@
 ---
 title: "Home"
-summary: "This is the landing page"
-date: 2021-09-11
 layout: default
+date: '2021-09-11'
+summary: This is the landing page
 ---
 
 Welcome! <span style="color:red"> Site is still under development. </span>
